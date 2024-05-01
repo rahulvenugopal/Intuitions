@@ -12,3 +12,6 @@
 
 ## Let me throw a 8.13 Hz sine wave
 ![](https://github.com/rahulvenugopal/IntuitionsSignalProcessing/blob/main/The%20Gap%20Effect/FourSinewaves.png)
+
+# Within vs between subjects study | Power
+![](https://github.com/rahulvenugopal/Intuitions/blob/main/Pair%20or%20not%20to%20pair/mean_se_viz_corrected.png)
